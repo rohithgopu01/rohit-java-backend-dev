@@ -25,6 +25,7 @@ import jakarta.validation.Valid;
 @RestController
 @RequestMapping("/address")
 public class AddressController {
+	// address controller test comment
 
 	@Autowired
 	private AddressService addressService;
