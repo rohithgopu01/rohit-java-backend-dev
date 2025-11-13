@@ -1,0 +1,1 @@
+insert into categories(name,description)values('santoor','soaps');
